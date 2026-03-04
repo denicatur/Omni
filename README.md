@@ -1,6 +1,8 @@
 # Omni
 
-An open, extensible AI agent that lives on your desktop. Omni connects to the LLM providers you already use, talks to people on your behalf across 25+ messaging platforms, and runs sandboxed WASM extensions that give it new skills without trusting arbitrary native code.
+Created by **Colin Vaughn** | Licensed under **MIT**
+
+Omni is an open, extensible AI agent that lives on your desktop - designed as a security-focused competitor to OpenClaw. It connects to the LLM providers you already use, talks to people on your behalf across 25+ messaging platforms, and runs sandboxed WASM extensions that give it new skills without trusting arbitrary native code.
 
 This is a Rust-heavy monorepo. The core engine, safety layer, extension runtime, and messaging backbone are all Rust crates. The desktop app is built with Tauri v2 and React. There's also a Next.js marketplace/website, a Supabase backend, and a handful of Node.js sidecar processes for things that don't have good Rust libraries yet.
 
@@ -259,4 +261,4 @@ Head over to [omniapp.org](https://omniapp.org) for full documentation, download
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full text.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
