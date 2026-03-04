@@ -253,6 +253,10 @@ Releases are automated through GitHub Actions (`.github/workflows/release.yml`).
 | CI/CD              | GitHub Actions, cross-platform Tauri builds                       |
 | Database           | Supabase (Postgres) for the marketplace, SQLCipher for local data |
 
+## Documentation and Community
+
+Head over to [omniapp.org](https://omniapp.org) for full documentation, downloads, donation options, and everything else around the project.
+
 ## License
 
-See [LICENSE](LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full text.
